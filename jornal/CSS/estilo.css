@@ -1,0 +1,15 @@
+main {
+    width: 60%;
+    height: 900px;
+    background-color: cadetblue;
+    float: left;
+    margin-left: 2.5%;
+}
+aside {
+    width: 30%;
+    height: 900px;
+    background-color: cornflowerblue;
+    float: right;
+    margin-right: 2.5%;
+    
+}
